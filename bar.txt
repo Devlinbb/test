@@ -1,1 +1,1 @@
-This is a new file
+"More stuff in new file" to "Less stuff in new file".
